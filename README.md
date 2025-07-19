@@ -35,7 +35,7 @@ GRANT ALL PRIVILEGES ON DATABASE coedb TO coe;
 
 1. **Clone the project**
    ```bash
-   git clone <[repository-url](https://github.com/PeeranatPathomkul/LAB_SQLAlchemy.git)>
+   git clone https://github.com/PeeranatPathomkul/LAB_SQLAlchemy.git
    ```
 
 2. **Navigate to project directory**
