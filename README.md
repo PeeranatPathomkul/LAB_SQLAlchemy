@@ -1,4 +1,4 @@
-# LAB_SQLAlchemy
+# LAB_SQLAlchemy 6610110214 Peeranat Pathomkul
  4.2  ศึกษา code จากโปรแกรม
 
 # PSU Note Application
